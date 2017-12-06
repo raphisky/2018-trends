@@ -1,0 +1,28 @@
+ body {
+  text-align: center;
+  background: #FDCA00;
+  font-family: Arial, sans-serif;
+ }
+
+h1 {
+  font-size: 72px;
+  color: #333333;
+}
+
+ h2 {
+   margin-top: 50px;
+   color: #1D2AD1;
+   font-size: 48px;
+ }
+
+#generate {
+  text-align: left;
+  padding: 30px;
+  display: inline-block;
+  font-size: 32px;
+  letter-spacing: 1px;
+  padding: 15px;
+  background-color: #F52500;
+  color: #FFFFFF;
+  border-radius: 10px;
+}
