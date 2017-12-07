@@ -25,4 +25,5 @@ h1 {
   background-color: #F52500;
   color: #FFFFFF;
   border-radius: 10px;
+  cursor: grab;
 }
