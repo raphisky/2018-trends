@@ -19,13 +19,13 @@ var spin_countVariations = function (spun) {
   return eval(spun);
  }
 
-var subjects = "{Booba|Elon Musk|Cardi B|Macron|Trump|Deschamps|Theresa May|Une IA|Un•e ministr•e|Rihanna|Mbappé|Un millennial}";
+var subjects = "{Niksa|Elon Musk|Cardi B|Macron|Trump|Deschamps|Theresa May|Une IA|Un•e ministre|Rihanna|Mbappé|Un millennial}";
 
-var verbs = "{financera|lancera|plaquera tout pour|annoncera|interdira|commencera|adoptera|soutiendra|investira dans|bannira|s’attaquera à|révolutionnera}";
+var verbs = "{plaquera tout pour|ira mollo sur|investira dans|envisagera|soutiendra|révolutionnera|dénoncera|mettra en valeur|acclamera|se passionnera pour|essaiera|influencera}";
 
-var complements = "{un pure player|la paix dans le monde|une fat mixtape|du pâté de campagne|du crossfit|l’arbitre|une course en sac|sa startup|Jul|la blockchain|l’huile de palme|une soirée electroswing}";
+var complements = "{un nouveau genre musical|la paix dans le monde|le crossfit|la bière sans alcool|le bitcoin|le monde des startups|la rédaction de poèmes X|les voitures autonomes|le tatouage stick’n’poke|les odeurs corporelles|le réchauffement climatique|l’écriture inclusive}";
 
-var adverbs = "{et cassera internet.|sans état d’âme.|toujours debout.|par amour du beau jeu.|sans autre forme de procès.|contre l’avis de sa mère.|jusqu’à la fin des temps.|sans gluten.|contre toute attente.|faisant fi des convenances.|réalisant son rêve d’enfant.|si le temps le permet.|ça promet.}";
+var adverbs = "{et cassera internet.|sans état d’âme.|en VR|par amour du beau jeu.|selon un site complotiste.|contre l’avis de sa mère.|jusqu’à la fin des temps.|et avec le sourire.|contre toute attente.|faisant fi des convenances.|réalisant son rêve d’enfant.|si le temps le permet.}";
 
 
   document.getElementById('generate').onclick = function() {
