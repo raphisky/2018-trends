@@ -19,13 +19,14 @@ var spin_countVariations = function (spun) {
   return eval(spun);
  }
 
-var subjects = "{Booba|Elon Musk|Cardi B|Kanye|Macron|Trump|Deschamps|Cyril Hanouna|Céline Dion|Theresa May|Une intelligence artificielle|Konbini|La classe politique|Une illustre inconnue|Rihanna|Un truc jaune qui attend|Un panda roux|Mbappé|Un millennial|Une dominatrice}";
+var subjects = "{Booba|Elon Musk|Cardi B|Macron|Trump|Deschamps|Theresa May|Une IA|Un•e ministr•e|Rihanna|Mbappé|Un millennial}";
 
-var verbs = "{plaquera tout pour|fera barrage à|fera tout pour|fera tout contre|abandonnera|commencera|sortira|soutiendra|s’illustrera par|investira dans|bannira|s’attaquera à|engagera|financera}";
+var verbs = "{financera|lancera|plaquera tout pour|annoncera|interdira|commencera|adoptera|soutiendra|investira dans|bannira|s’attaquera à|révolutionnera}";
 
-var complements = "{un pure player|l’ONU|la paix dans le monde|sa mixtape de 2018|un porc vietnamien|du pâté de campagne|sa gym suédoise|un joueur du Bayern|une course en sac|sa startup|une portée de chatons|une calvitie rampante|un restaurant arménien|le cinéma flamand|Jul|la blockchain|un abribus|l’huile de palme|une soirée electroswing|un jeu de mölki}";
+var complements = "{un pure player|la paix dans le monde|une fat mixtape|du pâté de campagne|du crossfit|l’arbitre|une course en sac|sa startup|Jul|la blockchain|l’huile de palme|une soirée electroswing};";
 
-var adverbs = "{et cassera internet.|si Dieu le veut.|sans état d’âme.|toujours debout.|sans autre forme de procès.|le tout, sans les mains.|contre l’avis de sa mère.|et ce, chaque mois.|jusqu’à la fin des temps.|si on ne fait rien pour l’en empêcher.|sans qu’on puisse y faire quoi que ce soit.|sans gluten.|contre toute attente.|tant sur le plan tactique que sur le plan technique.|au grand dam de la génération Z.|faisant fi des convenances.|réalisant son rêve d’enfant.|en dépit de la conjoncture.|si le temps le permet.|par amour du beau jeu|selon un site complotiste}";
+var adverbs = "{et cassera internet.|sans état d’âme.|toujours debout.|par amour du beau jeu.|sans autre forme de procès.|contre l’avis de sa mère.|jusqu’à la fin des temps.|sans gluten.|contre toute attente.|faisant fi des convenances.|réalisant son rêve d’enfant.|si le temps le permet.|ça promet.};";
+
 
   document.getElementById('generate').onclick = function() {
       var subj = document.getElementById('subject');
