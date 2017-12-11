@@ -23,9 +23,9 @@ var subjects = "{Booba|Elon Musk|Cardi B|Macron|Trump|Deschamps|Theresa May|Une 
 
 var verbs = "{financera|lancera|plaquera tout pour|annoncera|interdira|commencera|adoptera|soutiendra|investira dans|bannira|s’attaquera à|révolutionnera}";
 
-var complements = "{un pure player|la paix dans le monde|une fat mixtape|du pâté de campagne|du crossfit|l’arbitre|une course en sac|sa startup|Jul|la blockchain|l’huile de palme|une soirée electroswing};";
+var complements = "{un pure player|la paix dans le monde|une fat mixtape|du pâté de campagne|du crossfit|l’arbitre|une course en sac|sa startup|Jul|la blockchain|l’huile de palme|une soirée electroswing}";
 
-var adverbs = "{et cassera internet.|sans état d’âme.|toujours debout.|par amour du beau jeu.|sans autre forme de procès.|contre l’avis de sa mère.|jusqu’à la fin des temps.|sans gluten.|contre toute attente.|faisant fi des convenances.|réalisant son rêve d’enfant.|si le temps le permet.|ça promet.};";
+var adverbs = "{et cassera internet.|sans état d’âme.|toujours debout.|par amour du beau jeu.|sans autre forme de procès.|contre l’avis de sa mère.|jusqu’à la fin des temps.|sans gluten.|contre toute attente.|faisant fi des convenances.|réalisant son rêve d’enfant.|si le temps le permet.|ça promet.}";
 
 
   document.getElementById('generate').onclick = function() {
