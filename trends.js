@@ -19,7 +19,7 @@ var spin_countVariations = function (spun) {
   return eval(spun);
  }
 
-var subjects = "{Niksa|Elon Musk|Cardi B|Macron|Trump|Deschamps|Theresa May|Une IA|Un•e ministre|Rihanna|Mbappé|Un millennial}";
+var subjects = "{Niska|Elon Musk|Cardi B|Macron|Trump|Deschamps|Theresa May|Une IA|Un•e ministre|Rihanna|Mbappé|Un millennial}";
 
 var verbs = "{plaquera tout pour|émettra des doutes sur|investira dans|envisagera|soutiendra|révolutionnera|dénoncera|fera la promo pour|acclamera|se passionnera pour|découvrira|soûlera tout le monde avec}";
 
