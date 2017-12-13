@@ -21,7 +21,7 @@ var spin_countVariations = function (spun) {
 
 // FRENCH
 
-var subjects = "{Niska|Elon Musk|Cardi B|Macron|Trump|Deschamps|Theresa May|Une IA|Un•e ministre|Rihanna|Mbappé|Un millennial}";
+var subjects = "{Niska|Elon Musk|Cardi B|Emmanuel Macron|Donald Trump|Didier Deschamps|Theresa May|Une IA|Un•e ministre|Rihanna|Kylian Mbappé|Un millennial}";
 
 var verbs = "{plaquera tout pour|émettra des doutes sur|investira dans|disruptera|soutiendra|révolutionnera|dénoncera|promouvra|acclamera|se passionnera pour|découvrira|saoûlera tout le monde avec}";
 
@@ -31,9 +31,9 @@ var adverbs = "{et casse internet.|parce que #goals.|en VR.|par amour du beau je
 
 // ENGLISH
 
-var subjects_en = "{Donald Glover|Elon Musk|Cardi B|Macron|Trump|Floyd Mayweather|Angela Merkel|An AI|Serena Williams|Kendrick Lamar|Selena Gomez|A millennial}";
+var subjects_en = "{Donald Glover|Elon Musk|Cardi B|Emmanuel Macron|Donald Trump|Floyd Mayweather|Angela Merkel|An AI|Serena Williams|Kendrick Lamar|Selena Gomez|A millennial}";
 
-var verbs_en = "{funds|makes a diss track against|opposes|hacks|only snaps about|speaks against|discovers|gives up on|promotes|disrupts|won’t shut up about|keeps bitching about}";
+var verbs_en = "{will fund|will make a diss track against|will oppose|will hack|will only snap about|will speak against|will discover|will give up on|will promote|will disrupt|won’t shut up about|will keep bitching about}";
 
 var complements_en = "{world peace|Bitcoin|Emo-rap|acroyoga|several baby otters|avocado lattes|palm oil|global warming|root beer|space exploration|millennial pink|man buns}";
 
