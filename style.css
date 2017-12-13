@@ -29,3 +29,7 @@ h1 {
   border-radius: 10px;
   cursor: grab;
 }
+
+#generate:hover {
+  cursor: grab;
+}

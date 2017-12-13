@@ -21,11 +21,11 @@ var spin_countVariations = function (spun) {
 
 var subjects = "{Niska|Elon Musk|Cardi B|Macron|Trump|Deschamps|Theresa May|Une IA|Un•e ministre|Rihanna|Mbappé|Un millennial}";
 
-var verbs = "{plaquera tout pour|émettra des doutes sur|investira dans|disruptera|soutiendra|révolutionnera|dénoncera|fera la promo pour|acclamera|se passionnera pour|découvrira|soûlera tout le monde avec}";
+var verbs = "{plaque tout pour|émet des doutes sur|investit dans|disrupte|soutient|révolutionne|dénonce|fait la promo pour|acclame|se passionne pour|découvre|soûle tout le monde avec}";
 
 var complements = "{la K-Pop|la paix dans le monde|le crossfit|la bière sans alcool|le bitcoin|le monde des startups|la rédaction de poèmes X|les voitures autonomes|le tatouage stick’n’poke|le binge watching|le réchauffement climatique|l’écriture inclusive}";
 
-var adverbs = "{et cassera internet.|parce que #goals.|en VR.|par amour du beau jeu.|selon un site complotiste.|contre l’avis de sa mère.|jusqu’à la fin des temps.|avec le sourire.|contre toute attente.|faisant fi des convenances.|réalisant son rêve d’enfant.|si le temps le permet.}";
+var adverbs = "{et casse internet.|parce que #goals.|en VR.|par amour du beau jeu.|selon un site complotiste.|contre l’avis de sa mère.|jusqu’à la fin des temps.|avec le sourire.|contre toute attente.|faisant fi des convenances.|réalisant son rêve d’enfant.|si le temps le permet.}";
 
 
   document.getElementById('generate').onclick = function() {
