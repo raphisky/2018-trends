@@ -9,6 +9,7 @@
 h1 {
   font-size: 72px;
   color: #333333;
+  display: inline-block;
 }
 
  h2 {
@@ -20,6 +21,8 @@ h1 {
 #generate {
   text-align: left;
   padding: 30px;
+  margin-right: 30px;
+  margin-top: 45px;
   display: inline-block;
   font-size: 32px;
   letter-spacing: 1px;
@@ -28,6 +31,7 @@ h1 {
   color: #FFFFFF;
   border-radius: 10px;
   cursor: grab;
+  float: right;
 }
 
 #generate:hover {
